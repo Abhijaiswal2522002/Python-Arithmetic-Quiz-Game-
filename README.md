@@ -1,8 +1,3 @@
-# Python-Arithmetic-Quiz-Game-
-Sure, here's a template for a README file for your GitHub repository for the Python Arithmetic Quiz Game:
-
----
-
 # Python Arithmetic Quiz Game
 
 Welcome to the Python Arithmetic Quiz Game! This interactive Python project is designed to help you sharpen your arithmetic skills in a fun and engaging way.
